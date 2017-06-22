@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "598915177060",
+    "firebase_url": "https://amigo-pet-35284.firebaseio.com",
+    "project_id": "amigo-pet-35284",
+    "storage_bucket": "amigo-pet-35284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598915177060:android:2dff9d6e17f16ff1",
+        "android_client_info": {
+          "package_name": "com.example.gustavohenrique.amigopet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598915177060-nnegq23s1fjfmo2r9efmov7fuh5t8c38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn0j9AdGbmYfZI0nSPXiTR3_Z_JB5NgL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598915177060:android:e0be3cea56c29e89",
+        "android_client_info": {
+          "package_name": "padroes.estudo.com.simplefirebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598915177060-nnegq23s1fjfmo2r9efmov7fuh5t8c38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn0j9AdGbmYfZI0nSPXiTR3_Z_JB5NgL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
